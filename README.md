@@ -1,0 +1,2 @@
+# introduction_to_optimization_and_operation_researh
+An introduction to optimization problems and operation research
